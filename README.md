@@ -1,0 +1,2 @@
+# rabbitmq
+RabbitMQ Learnings
